@@ -1,0 +1,28 @@
+* {
+	margin: 0; padding: 0; border: 0; text-decoration: none;
+}
+
+/* HEADER */
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	background-color: black;
+}
+.icon-logo-h {
+	color: white;
+}
+.nav-header {
+	display: flex;
+	justify-content: space-between;
+}
+.item-nav-header {
+	padding: 10px;
+	color: white;
+}
+/* HEADER */
+
+/* CONTENT => PRODUTOS */
+
+/* CONTENT => PRODUTOS */
